@@ -23,7 +23,7 @@ sing-box是一个强大的代理脚本，多种环境下使用。它支持多种
 
 ## VPS一键四协议安装脚本
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/laozi4vip/Sing-box/refs/heads/main/sing-box.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sing-box.sh)
 ```
 ## vps带端口变量运行示列
 PORT=开放的端口 确保后面3个端口可用 CFIP为优选IP或优选域名，CFPORT为优选ip或优选域名对应的端口
